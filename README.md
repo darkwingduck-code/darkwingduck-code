@@ -15,10 +15,16 @@ clear interfaces, and research software that can move from an experiment to a re
 
 `Scientific ML` · `CFD & Multiphysics` · `Simulation Automation` · `Engineering Software` · `AI Research Systems`
 
-## Core toolkit
+## Repository-backed languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,matlab,pytorch,docker,git,githubactions,linux,vscode&perline=10" alt="Python, C++, C#, MATLAB, PyTorch, Docker, Git, GitHub Actions, Linux, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,ts,powershell,js,latex,rust,css,html&perline=8" alt="Python, TypeScript, PowerShell, JavaScript, TeX, Rust, CSS, and HTML" />
+</p>
+
+## Engineering environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode" alt="Docker, Git, GitHub Actions, Linux, and VS Code" />
 </p>
 
 ## Selected public work
