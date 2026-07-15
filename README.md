@@ -29,16 +29,11 @@ clear interfaces, and research software that can move from an experiment to a re
 
 ## GitHub snapshot
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darkwingduck-code&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darkwingduck-code&layout=compact&langs_count=8&hide_border=true&theme=default" />
-  <img alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkwingduck-code&layout=compact&langs_count=8&hide_border=true" />
-</picture>
+<img src="./assets/languages.svg" alt="Language composition across public repositories" width="520" />
 
-<sub>Language percentages are calculated from code in public repositories. They describe repository composition, not proficiency.</sub>
+<sub>Updated weekly from the GitHub API. Percentages aggregate language bytes across public and private non-fork repositories; repository names and code remain private. This describes repository composition, not proficiency.</sub>
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-darkwingduck--code-181717?style=flat-square&logo=github)](https://github.com/darkwingduck-code)
 [![Blog](https://img.shields.io/badge/Blog-Technical_notes-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://darkwingduck-code.github.io)
-

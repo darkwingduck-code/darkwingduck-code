@@ -1,0 +1,111 @@
+{
+  "username": "darkwingduck-code",
+  "method": "GitHub Linguist bytes across accessible non-fork, non-archived repositories",
+  "languages": [
+    {
+      "name": "Python",
+      "bytes": 3369920,
+      "percentage": 61.13
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 872537,
+      "percentage": 15.83
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 301145,
+      "percentage": 5.46
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 276141,
+      "percentage": 5.01
+    },
+    {
+      "name": "TeX",
+      "bytes": 157504,
+      "percentage": 2.86
+    },
+    {
+      "name": "Rust",
+      "bytes": 143496,
+      "percentage": 2.6
+    },
+    {
+      "name": "CSS",
+      "bytes": 133546,
+      "percentage": 2.42
+    },
+    {
+      "name": "HTML",
+      "bytes": 113028,
+      "percentage": 2.05
+    },
+    {
+      "name": "C#",
+      "bytes": 62692,
+      "percentage": 1.14
+    },
+    {
+      "name": "R",
+      "bytes": 17376,
+      "percentage": 0.32
+    },
+    {
+      "name": "Shell",
+      "bytes": 13843,
+      "percentage": 0.25
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 12683,
+      "percentage": 0.23
+    },
+    {
+      "name": "PLpgSQL",
+      "bytes": 12600,
+      "percentage": 0.23
+    },
+    {
+      "name": "Makefile",
+      "bytes": 9432,
+      "percentage": 0.17
+    },
+    {
+      "name": "Batchfile",
+      "bytes": 5070,
+      "percentage": 0.09
+    },
+    {
+      "name": "Go Template",
+      "bytes": 3583,
+      "percentage": 0.06
+    },
+    {
+      "name": "Inno Setup",
+      "bytes": 2747,
+      "percentage": 0.05
+    },
+    {
+      "name": "SystemVerilog",
+      "bytes": 2267,
+      "percentage": 0.04
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 1288,
+      "percentage": 0.02
+    },
+    {
+      "name": "OverpassQL",
+      "bytes": 1234,
+      "percentage": 0.02
+    },
+    {
+      "name": "Ruby",
+      "bytes": 599,
+      "percentage": 0.01
+    }
+  ]
+}
