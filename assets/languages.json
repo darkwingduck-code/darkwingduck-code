@@ -4,13 +4,13 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 3369920,
-      "percentage": 61.13
+      "bytes": 3373802,
+      "percentage": 61.16
     },
     {
       "name": "TypeScript",
       "bytes": 872537,
-      "percentage": 15.83
+      "percentage": 15.82
     },
     {
       "name": "PowerShell",
@@ -50,7 +50,7 @@
     {
       "name": "R",
       "bytes": 17376,
-      "percentage": 0.32
+      "percentage": 0.31
     },
     {
       "name": "Shell",
