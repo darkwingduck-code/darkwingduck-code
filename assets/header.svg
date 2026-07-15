@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Gyeongtae Im — Engineering research and software</title>
+  <desc id="desc">A restrained technical banner with connected simulation nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#111c32"/>
+      <stop offset="1" stop-color="#0b2530"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39d0b3"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <path d="M760 224 C820 182 830 92 900 82 S1010 168 1090 70" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.48"/>
+  <path d="M760 194 C840 138 900 210 980 146 S1080 126 1160 44" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.22"/>
+  <g fill="#39d0b3" filter="url(#glow)">
+    <circle cx="760" cy="224" r="4"/><circle cx="900" cy="82" r="5"/><circle cx="1090" cy="70" r="4"/>
+  </g>
+  <g fill="#58a6ff">
+    <circle cx="760" cy="194" r="3"/><circle cx="980" cy="146" r="4"/><circle cx="1160" cy="44" r="3"/>
+  </g>
+  <rect x="62" y="54" width="76" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="62" y="112" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="650">Gyeongtae Im</text>
+  <text x="62" y="154" fill="#9fb1c7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" letter-spacing="0.7">SIMULATION · SCIENTIFIC COMPUTING · AI ENGINEERING</text>
+  <text x="62" y="202" fill="#6ee7d2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">physics → computation → reliable engineering systems</text>
+</svg>

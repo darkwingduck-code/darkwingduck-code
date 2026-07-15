@@ -1,3 +1,5 @@
+<img src="./assets/header.svg" alt="Gyeongtae Im — Simulation, Scientific Computing, and AI Engineering" width="100%" />
+
 # Gyeongtae Im
 
 **Simulation · Scientific Computing · AI-assisted Engineering**
