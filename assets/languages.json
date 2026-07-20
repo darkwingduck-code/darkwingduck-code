@@ -4,48 +4,48 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 3373802,
-      "percentage": 61.16
+      "bytes": 3426051,
+      "percentage": 61.2
     },
     {
       "name": "TypeScript",
-      "bytes": 872537,
-      "percentage": 15.82
+      "bytes": 884809,
+      "percentage": 15.81
     },
     {
       "name": "PowerShell",
-      "bytes": 301145,
-      "percentage": 5.46
+      "bytes": 306226,
+      "percentage": 5.47
     },
     {
       "name": "JavaScript",
-      "bytes": 276141,
-      "percentage": 5.01
+      "bytes": 281782,
+      "percentage": 5.03
     },
     {
       "name": "TeX",
       "bytes": 157504,
-      "percentage": 2.86
+      "percentage": 2.81
     },
     {
       "name": "Rust",
       "bytes": 143496,
-      "percentage": 2.6
+      "percentage": 2.56
     },
     {
       "name": "CSS",
       "bytes": 133546,
-      "percentage": 2.42
+      "percentage": 2.39
     },
     {
       "name": "HTML",
-      "bytes": 113028,
-      "percentage": 2.05
+      "bytes": 119202,
+      "percentage": 2.13
     },
     {
       "name": "C#",
       "bytes": 62692,
-      "percentage": 1.14
+      "percentage": 1.12
     },
     {
       "name": "R",
@@ -94,8 +94,8 @@
     },
     {
       "name": "Dockerfile",
-      "bytes": 1288,
-      "percentage": 0.02
+      "bytes": 1490,
+      "percentage": 0.03
     },
     {
       "name": "OverpassQL",
