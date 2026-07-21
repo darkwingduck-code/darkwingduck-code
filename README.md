@@ -1,47 +1,60 @@
-<img src="./assets/header.svg" alt="Gyeongtae Im — Simulation, Scientific Computing, and AI Engineering" width="100%" />
+<img src="./assets/header.svg" alt="Gyeongtae Im — Physics-based simulation, scientific ML, and engineering software" width="100%" />
 
 # Gyeongtae Im
 
-**Simulation · Scientific Computing · AI-assisted Engineering**
+**Mechanical engineer and research-software builder working at the intersection of physics-based simulation, scientific machine learning, and reliable automation.**
 
-I build practical engineering systems that connect physics-based simulation,
-automation, and machine learning. My work focuses on reproducible workflows,
-clear interfaces, and research software that can move from an experiment to a reliable tool.
+I turn complex physical problems into reproducible computational workflows—from CFD and multiphysics studies to surrogate models, engineering applications, and agent-assisted research systems.
 
-- 🔬 Working on CFD, hydrogen safety, fire dynamics, and surrogate modeling
-- ⚙️ Building simulation automation and engineering desktop applications
-- 🤖 Exploring agentic research workflows and efficient ML experimentation
-- 📝 Writing technical notes at [darkwingduck-code.github.io](https://darkwingduck-code.github.io)
+[![Technical Notes](https://img.shields.io/badge/Technical_Notes-Read-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://darkwingduck-code.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6517--523X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6517-523X)
+[![GitHub](https://img.shields.io/badge/GitHub-darkwingduck--code-181717?style=flat-square&logo=github)](https://github.com/darkwingduck-code)
 
-## Focus
+> **Model the physics. Automate the repeatable work. Validate the result. Deliver a tool people can trust.**
 
-`Scientific ML` · `CFD & Multiphysics` · `Simulation Automation` · `Engineering Software` · `AI Research Systems`
+## What I work on
 
-## Repository-backed languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,powershell,js,latex,rust,css,html&perline=8" alt="Python, TypeScript, PowerShell, JavaScript, TeX, Rust, CSS, and HTML" />
-</p>
-
-## Engineering environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode" alt="Docker, Git, GitHub Actions, Linux, and VS Code" />
-</p>
+| Area | Questions I focus on | Typical output |
+| --- | --- | --- |
+| **Safety-critical simulation** | How do releases, dispersion, ventilation, and fire evolve in real systems? | CFD studies, defensible assumptions, and risk-aware decision support |
+| **Scientific ML** | How can surrogate models, PINNs, and explainability accelerate physics-based analysis without hiding uncertainty? | Reproducible experiments and validation-first predictive workflows |
+| **Engineering automation** | Which manual simulation and analysis steps can be made reliable, traceable, and reusable? | Python automation, desktop tools, data pipelines, and CI-backed utilities |
+| **Agentic research systems** | How can LLM agents support research while keeping evidence, state, and decisions inspectable? | MCP/LangGraph workflows, controlled experiment loops, and research tooling |
 
 ## Selected public work
 
-- [autoresearch](https://github.com/darkwingduck-code/autoresearch) — automated single-GPU research experiments
-- [superpowers-mcp](https://github.com/darkwingduck-code/superpowers-mcp) — MCP integration for structured agent workflows
-- [vscode-terminal-text-fix](https://github.com/darkwingduck-code/vscode-terminal-text-fix) — focused developer-tooling fix
+| Project | What it demonstrates |
+| --- | --- |
+| [**repo-health-check**](https://github.com/darkwingduck-code/repo-health-check) | A non-mutating PowerShell repository health checker with human-readable and JSON output, clean-tree enforcement, upstream sync reporting, and Windows CI integration tests. |
+| [**windows-usb-input-recovery**](https://github.com/darkwingduck-code/windows-usb-input-recovery) | Risk-tiered Windows USB/HID diagnostics and recovery scripts with `-WhatIf` support, recovery safeguards, and privacy guidance. |
+| [**github-profile-blog-playbook**](https://github.com/darkwingduck-code/github-profile-blog-playbook) | A practical, documented system for operating a professional GitHub profile and technical blog, including automated privacy-preserving language analytics. |
+| [**vscode-terminal-text-fix**](https://github.com/darkwingduck-code/vscode-terminal-text-fix) | A concise, reproducible troubleshooting note for a Windows terminal-rendering failure, with rollback and alternative diagnostics. |
 
-## GitHub snapshot
+## Engineering toolkit
 
-<img src="./assets/languages.svg" alt="Language composition across public repositories" width="520" />
+**Modeling & research**  
+CFD · Multiphysics · Transport phenomena · Hydrogen safety · Fire dynamics · Surrogate modeling · Explainable AI
 
-<sub>Updated weekly from the GitHub API. Percentages aggregate language bytes across public and private non-fork repositories; repository names and code remain private. This describes repository composition, not proficiency.</sub>
+**Software & automation**  
+Python · PyTorch · TypeScript · PowerShell · PySide6 · MCP · LangGraph · Docker · GitHub Actions
 
-## Connect
+**Working principles**  
+Reproducibility · Verification before claims · Explicit assumptions · Reviewable changes · Usable interfaces
 
-[![GitHub](https://img.shields.io/badge/GitHub-darkwingduck--code-181717?style=flat-square&logo=github)](https://github.com/darkwingduck-code)
-[![Blog](https://img.shields.io/badge/Blog-Technical_notes-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://darkwingduck-code.github.io)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,powershell,docker,git,githubactions,linux&perline=8" alt="Python, PyTorch, TypeScript, PowerShell, Docker, Git, GitHub Actions, and Linux" />
+</p>
+
+## Research profile
+
+- M.S. in Mechanical Engineering
+- Research interests: scientific ML, simulation automation, hydrogen and fire safety, optimization, and trustworthy engineering AI
+- Publications and research record: [ORCID 0000-0001-6517-523X](https://orcid.org/0000-0001-6517-523X)
+- Reproducible technical notes: [darkwingduck-code.github.io](https://darkwingduck-code.github.io)
+
+## Repository snapshot
+
+<img src="./assets/languages.svg" alt="Language composition across accessible non-fork repositories" width="520" />
+
+<sub>Updated weekly from the GitHub API. Percentages aggregate language bytes across public and private non-fork, non-archived repositories; repository names and source code remain private. This describes repository composition, not proficiency.</sub>
+
