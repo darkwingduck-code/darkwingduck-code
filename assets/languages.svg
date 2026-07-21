@@ -1,17 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="336" role="img" aria-label="Language composition">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="266" viewBox="0 0 520 266" role="img" aria-labelledby="title desc">
+<title id="title">Repository language composition</title>
+<desc id="desc">Top languages by GitHub Linguist bytes across accessible non-fork, non-archived repositories.</desc>
 <style>
   .card { fill: #ffffff; stroke: #d0d7de; }
+  .bar-background { fill: #eaeef2; }
   .title { font: 600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
-  .subtitle,.value { font: 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #656d76; }
+  .subtitle,.value,.footer { font: 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #656d76; }
   .label { font: 600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
   @media (prefers-color-scheme: dark) {
     .card { fill: #0d1117; stroke: #30363d; }
+    .bar-background { fill: #21262d; }
     .title,.label { fill: #e6edf3; }
-    .subtitle,.value { fill: #8b949e; }
+    .subtitle,.value,.footer { fill: #8b949e; }
   }
 </style>
-<rect class="card" x="0.5" y="0.5" width="519" height="335" rx="10"/>
-<text x="24" y="34" class="title">Repository language composition</text>
-<text x="24" y="56" class="subtitle">Public + private aggregate · forks and archives excluded</text>
-<circle cx="28" cy="85" r="6" fill="#3572A5"/><text x="44" y="90" class="label">Python</text><text x="490" y="90" text-anchor="end" class="value">61.2%</text><circle cx="28" cy="113" r="6" fill="#3178c6"/><text x="44" y="118" class="label">TypeScript</text><text x="490" y="118" text-anchor="end" class="value">15.8%</text><circle cx="28" cy="141" r="6" fill="#8b949e"/><text x="44" y="146" class="label">PowerShell</text><text x="490" y="146" text-anchor="end" class="value">5.5%</text><circle cx="28" cy="169" r="6" fill="#f1e05a"/><text x="44" y="174" class="label">JavaScript</text><text x="490" y="174" text-anchor="end" class="value">5.0%</text><circle cx="28" cy="197" r="6" fill="#8b949e"/><text x="44" y="202" class="label">TeX</text><text x="490" y="202" text-anchor="end" class="value">2.8%</text><circle cx="28" cy="225" r="6" fill="#8b949e"/><text x="44" y="230" class="label">Rust</text><text x="490" y="230" text-anchor="end" class="value">2.6%</text><circle cx="28" cy="253" r="6" fill="#663399"/><text x="44" y="258" class="label">CSS</text><text x="490" y="258" text-anchor="end" class="value">2.4%</text><circle cx="28" cy="281" r="6" fill="#e34c26"/><text x="44" y="286" class="label">HTML</text><text x="490" y="286" text-anchor="end" class="value">2.1%</text>
+<rect class="card" x="0.5" y="0.5" width="519" height="265" rx="10"/>
+<text id="title-text" x="24" y="34" class="title">Repository language mix</text>
+<text x="24" y="55" class="subtitle">Public + private aggregate · forks and archives excluded</text>
+<defs><clipPath id="bar-clip"><rect x="24" y="72" width="472" height="14" rx="7"/></clipPath></defs>
+<rect class="bar-background" x="24" y="72" width="472" height="14" rx="7"/>
+<g clip-path="url(#bar-clip)"><rect x="24.00" y="72" width="288.86" height="14" fill="#3572A5"><title>Python: 61.2%</title></rect><rect x="312.86" y="72" width="74.60" height="14" fill="#3178C6"><title>TypeScript: 15.8%</title></rect><rect x="387.46" y="72" width="25.82" height="14" fill="#5391FE"><title>PowerShell: 5.5%</title></rect><rect x="413.28" y="72" width="23.76" height="14" fill="#D4B830"><title>JavaScript: 5.0%</title></rect><rect x="437.03" y="72" width="13.28" height="14" fill="#3D6117"><title>TeX: 2.8%</title></rect><rect x="450.31" y="72" width="12.10" height="14" fill="#DEA584"><title>Rust: 2.6%</title></rect><rect x="462.41" y="72" width="11.26" height="14" fill="#663399"><title>CSS: 2.4%</title></rect><rect x="473.67" y="72" width="10.05" height="14" fill="#E34C26"><title>HTML: 2.1%</title></rect></g>
+<circle cx="30" cy="114" r="6" fill="#3572A5"/><text x="44" y="119" class="label">Python</text><text x="248" y="119" text-anchor="end" class="value">61.2%</text><circle cx="30" cy="144" r="6" fill="#3178C6"/><text x="44" y="149" class="label">TypeScript</text><text x="248" y="149" text-anchor="end" class="value">15.8%</text><circle cx="30" cy="174" r="6" fill="#5391FE"/><text x="44" y="179" class="label">PowerShell</text><text x="248" y="179" text-anchor="end" class="value">5.5%</text><circle cx="30" cy="204" r="6" fill="#D4B830"/><text x="44" y="209" class="label">JavaScript</text><text x="248" y="209" text-anchor="end" class="value">5.0%</text><circle cx="278" cy="114" r="6" fill="#3D6117"/><text x="292" y="119" class="label">TeX</text><text x="496" y="119" text-anchor="end" class="value">2.8%</text><circle cx="278" cy="144" r="6" fill="#DEA584"/><text x="292" y="149" class="label">Rust</text><text x="496" y="149" text-anchor="end" class="value">2.6%</text><circle cx="278" cy="174" r="6" fill="#663399"/><text x="292" y="179" class="label">CSS</text><text x="496" y="179" text-anchor="end" class="value">2.4%</text><circle cx="278" cy="204" r="6" fill="#E34C26"/><text x="292" y="209" class="label">HTML</text><text x="496" y="209" text-anchor="end" class="value">2.1%</text>
+<text x="24" y="247" class="footer">Updated weekly · GitHub Linguist bytes · repository mix ≠ proficiency</text>
 </svg>
