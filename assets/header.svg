@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Gyeongtae Im — Engineering research and software</title>
+  <title id="title">Gyeongtae Im — Physics-based simulation, scientific ML, and engineering software</title>
   <desc id="desc">A restrained technical banner with connected simulation nodes.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -31,6 +31,6 @@
   </g>
   <rect x="62" y="54" width="76" height="5" rx="2.5" fill="url(#accent)"/>
   <text x="62" y="112" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="650">Gyeongtae Im</text>
-  <text x="62" y="154" fill="#9fb1c7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" letter-spacing="0.7">SIMULATION · SCIENTIFIC COMPUTING · AI ENGINEERING</text>
-  <text x="62" y="202" fill="#6ee7d2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">physics → computation → reliable engineering systems</text>
+  <text x="62" y="154" fill="#9fb1c7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" letter-spacing="0.5">PHYSICS-BASED SIMULATION · SCIENTIFIC ML · ENGINEERING SOFTWARE</text>
+  <text x="62" y="202" fill="#6ee7d2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">model → automate → validate → deploy</text>
 </svg>
