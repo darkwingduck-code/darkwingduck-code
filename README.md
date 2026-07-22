@@ -25,10 +25,12 @@ I turn complex physical problems into reproducible computational workflows—fro
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**repo-health-check**](https://github.com/darkwingduck-code/repo-health-check) | A non-mutating PowerShell repository health checker with human-readable and JSON output, clean-tree enforcement, upstream sync reporting, and Windows CI integration tests. |
-| [**windows-usb-input-recovery**](https://github.com/darkwingduck-code/windows-usb-input-recovery) | Risk-tiered Windows USB/HID diagnostics and recovery scripts with `-WhatIf` support, recovery safeguards, and privacy guidance. |
-| [**github-profile-blog-playbook**](https://github.com/darkwingduck-code/github-profile-blog-playbook) | A practical, documented system for operating a professional GitHub profile and technical blog, including automated privacy-preserving language analytics. |
-| [**vscode-terminal-text-fix**](https://github.com/darkwingduck-code/vscode-terminal-text-fix) | A concise, reproducible troubleshooting note for a Windows terminal-rendering failure, with rollback and alternative diagnostics. |
+| [**delivery-graph**](https://github.com/darkwingduck-code/delivery-graph) | A guardrailed software-delivery pipeline combining LangGraph, Amazon Bedrock, GitHub, optional Playwright RPA, and AWS orchestration, with schema validation, deterministic policy checks, human approval, tests, and CI. |
+| [**repo-health-check**](https://github.com/darkwingduck-code/repo-health-check) | A non-mutating PowerShell repository health checker with human-readable and JSON output, clean-tree enforcement, upstream sync reporting, integration tests, and Windows CI. |
+| [**darkwingduck-code.github.io**](https://github.com/darkwingduck-code/darkwingduck-code.github.io) | A deployed technical-notes platform covering simulation, scientific computing, ML, and reliable delivery, with sensitive-content auditing, Jekyll validation, link checks, and GitHub Pages CI/CD. |
+| [**windows-usb-input-recovery**](https://github.com/darkwingduck-code/windows-usb-input-recovery) | Risk-tiered Windows USB/HID diagnostics and recovery scripts with `-WhatIf` support, explicit controller-level safeguards, recovery guidance, and privacy boundaries. |
+| [**github-profile-blog-playbook**](https://github.com/darkwingduck-code/github-profile-blog-playbook) | A documented operating system for professional GitHub profiles and technical blogs, including privacy-aware language analytics, Actions security, reusable templates, and release guidance. |
+| [**git-pr-learning-lab**](https://github.com/darkwingduck-code/git-pr-learning-lab) | A Korean-first, beginner-friendly Git and pull-request learning lab with guided exercises, quick starts, troubleshooting, contribution rules, and an English entry point. |
 
 ## Engineering toolkit
 
