@@ -43,8 +43,22 @@ Python · PyTorch · TypeScript · PowerShell · PySide6 · MCP · LangGraph · 
 **Working principles**  
 Reproducibility · Verification before claims · Explicit assumptions · Reviewable changes · Usable interfaces
 
+## Technology snapshot
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,powershell,docker,git,githubactions,linux&perline=8" alt="Python, PyTorch, TypeScript, PowerShell, Docker, Git, GitHub Actions, and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,powershell,docker,git,githubactions,linux,matlab,latex,vscode,bash&perline=12" alt="Python, PyTorch, TypeScript, PowerShell, Docker, Git, GitHub Actions, Linux, MATLAB, LaTeX, VS Code, and Bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JAX-Accelerated_Array_Computing-8A2BE2?style=flat-square" alt="JAX" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-GPU_Computing-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-Numerical_Computing-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/MATLAB-Engineering_Computing-E16737?style=flat-square" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/CoolProp-Thermophysical_Properties-2563EB?style=flat-square" alt="CoolProp" />
+  <img src="https://img.shields.io/badge/MCP-Agent_Tooling-6D28D9?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1F2937?style=flat-square" alt="LangGraph" />
 </p>
 
 ## Research profile
@@ -60,3 +74,8 @@ Reproducibility · Verification before claims · Explicit assumptions · Reviewa
 
 <sub>Updated weekly from the GitHub API. Percentages aggregate language bytes across public and private non-fork, non-archived repositories; repository names and source code remain private. This describes repository composition, not proficiency.</sub>
 
+## Code activity snapshot
+
+<img src="./assets/activity.svg" alt="Committed code additions and deletions by language during the displayed lookup period" width="520" />
+
+<sub>The displayed lookup period covers owned public and private non-fork, non-archived repositories. Counts are committed diff lines grouped by file extension—not keystrokes—and exclude common generated, dependency, build, and lock files. Repository names, paths, and commit identifiers remain private.</sub>
