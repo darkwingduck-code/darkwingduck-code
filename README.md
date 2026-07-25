@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Gyeongtae Im — Physics-based simulation, scientific ML, and engineering software" width="100%" />
+<img src="./assets/header.jpg" alt="Gyeongtae Im — Physics-based simulation, scientific ML, and engineering software" width="100%" />
 
 # Gyeongtae Im
 
