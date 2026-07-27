@@ -4,108 +4,128 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 3503671,
-      "percentage": 60.9
+      "bytes": 51400122,
+      "percentage": 90.28
     },
     {
       "name": "TypeScript",
-      "bytes": 884809,
-      "percentage": 15.38
-    },
-    {
-      "name": "PowerShell",
-      "bytes": 310832,
-      "percentage": 5.4
+      "bytes": 2737959,
+      "percentage": 4.81
     },
     {
       "name": "JavaScript",
-      "bytes": 288320,
-      "percentage": 5.01
+      "bytes": 946441,
+      "percentage": 1.66
+    },
+    {
+      "name": "CSS",
+      "bytes": 696013,
+      "percentage": 1.22
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 331344,
+      "percentage": 0.58
     },
     {
       "name": "HTML",
-      "bytes": 182030,
-      "percentage": 3.16
+      "bytes": 253430,
+      "percentage": 0.45
     },
     {
       "name": "TeX",
       "bytes": 157504,
-      "percentage": 2.74
+      "percentage": 0.28
     },
     {
       "name": "Rust",
-      "bytes": 143496,
-      "percentage": 2.49
+      "bytes": 146659,
+      "percentage": 0.26
     },
     {
-      "name": "CSS",
-      "bytes": 133546,
-      "percentage": 2.32
+      "name": "Shell",
+      "bytes": 66399,
+      "percentage": 0.12
     },
     {
       "name": "C#",
-      "bytes": 62692,
-      "percentage": 1.09
+      "bytes": 62795,
+      "percentage": 0.11
+    },
+    {
+      "name": "MATLAB",
+      "bytes": 20083,
+      "percentage": 0.04
+    },
+    {
+      "name": "Lua",
+      "bytes": 19543,
+      "percentage": 0.03
     },
     {
       "name": "R",
       "bytes": 17376,
-      "percentage": 0.3
+      "percentage": 0.03
     },
     {
-      "name": "Shell",
-      "bytes": 13843,
-      "percentage": 0.24
+      "name": "Batchfile",
+      "bytes": 15510,
+      "percentage": 0.03
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 12683,
-      "percentage": 0.22
+      "percentage": 0.02
     },
     {
       "name": "PLpgSQL",
       "bytes": 12600,
-      "percentage": 0.22
-    },
-    {
-      "name": "Makefile",
-      "bytes": 9432,
-      "percentage": 0.16
+      "percentage": 0.02
     },
     {
       "name": "Go Template",
-      "bytes": 6787,
-      "percentage": 0.12
+      "bytes": 11088,
+      "percentage": 0.02
     },
     {
-      "name": "Batchfile",
-      "bytes": 5070,
-      "percentage": 0.09
+      "name": "Makefile",
+      "bytes": 10418,
+      "percentage": 0.02
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 2861,
+      "percentage": 0.01
     },
     {
       "name": "Inno Setup",
       "bytes": 2747,
-      "percentage": 0.05
+      "percentage": 0.0
+    },
+    {
+      "name": "Just",
+      "bytes": 2390,
+      "percentage": 0.0
+    },
+    {
+      "name": "Mermaid",
+      "bytes": 2304,
+      "percentage": 0.0
     },
     {
       "name": "SystemVerilog",
       "bytes": 2267,
-      "percentage": 0.04
-    },
-    {
-      "name": "Dockerfile",
-      "bytes": 1490,
-      "percentage": 0.03
+      "percentage": 0.0
     },
     {
       "name": "OverpassQL",
       "bytes": 1234,
-      "percentage": 0.02
+      "percentage": 0.0
     },
     {
       "name": "Ruby",
       "bytes": 599,
-      "percentage": 0.01
+      "percentage": 0.0
     }
   ]
 }
