@@ -4,62 +4,77 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 52129971,
-      "percentage": 78.57
+      "bytes": 53080079,
+      "percentage": 67.99
+    },
+    {
+      "name": "MATLAB",
+      "bytes": 5424266,
+      "percentage": 6.95
     },
     {
       "name": "Jupyter Notebook",
-      "bytes": 4932276,
-      "percentage": 7.43
+      "bytes": 4962444,
+      "percentage": 6.36
     },
     {
       "name": "TypeScript",
-      "bytes": 3275332,
-      "percentage": 4.94
+      "bytes": 4237147,
+      "percentage": 5.43
+    },
+    {
+      "name": "C",
+      "bytes": 3666707,
+      "percentage": 4.7
     },
     {
       "name": "JavaScript",
-      "bytes": 3107138,
-      "percentage": 4.68
+      "bytes": 3449196,
+      "percentage": 4.42
     },
     {
       "name": "CSS",
-      "bytes": 1083697,
-      "percentage": 1.63
+      "bytes": 1200462,
+      "percentage": 1.54
     },
     {
       "name": "HTML",
-      "bytes": 880428,
-      "percentage": 1.33
+      "bytes": 880426,
+      "percentage": 1.13
     },
     {
       "name": "PowerShell",
-      "bytes": 364044,
-      "percentage": 0.55
+      "bytes": 395088,
+      "percentage": 0.51
+    },
+    {
+      "name": "C++",
+      "bytes": 184277,
+      "percentage": 0.24
     },
     {
       "name": "TeX",
       "bytes": 157504,
-      "percentage": 0.24
+      "percentage": 0.2
     },
     {
       "name": "Rust",
       "bytes": 146659,
-      "percentage": 0.22
+      "percentage": 0.19
     },
     {
       "name": "Shell",
-      "bytes": 66399,
-      "percentage": 0.1
+      "bytes": 71990,
+      "percentage": 0.09
     },
     {
       "name": "C#",
       "bytes": 62795,
-      "percentage": 0.09
+      "percentage": 0.08
     },
     {
-      "name": "MATLAB",
-      "bytes": 20083,
+      "name": "Makefile",
+      "bytes": 20318,
       "percentage": 0.03
     },
     {
@@ -70,12 +85,12 @@
     {
       "name": "HCL",
       "bytes": 18235,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "name": "R",
       "bytes": 17376,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "name": "Batchfile",
@@ -90,16 +105,21 @@
     {
       "name": "Go Template",
       "bytes": 11088,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
-      "name": "Makefile",
-      "bytes": 10418,
-      "percentage": 0.02
+      "name": "CMake",
+      "bytes": 10398,
+      "percentage": 0.01
     },
     {
       "name": "Dockerfile",
       "bytes": 4667,
+      "percentage": 0.01
+    },
+    {
+      "name": "Modelica",
+      "bytes": 4172,
       "percentage": 0.01
     },
     {
