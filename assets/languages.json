@@ -4,58 +4,58 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 53080079,
-      "percentage": 67.99
+      "bytes": 53279955,
+      "percentage": 67.96
     },
     {
       "name": "MATLAB",
-      "bytes": 5424266,
-      "percentage": 6.95
+      "bytes": 5470078,
+      "percentage": 6.98
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4962444,
-      "percentage": 6.36
+      "percentage": 6.33
     },
     {
       "name": "TypeScript",
       "bytes": 4237147,
-      "percentage": 5.43
+      "percentage": 5.4
     },
     {
       "name": "C",
-      "bytes": 3666707,
+      "bytes": 3687409,
       "percentage": 4.7
     },
     {
       "name": "JavaScript",
-      "bytes": 3449196,
-      "percentage": 4.42
+      "bytes": 3449226,
+      "percentage": 4.4
     },
     {
       "name": "CSS",
       "bytes": 1200462,
-      "percentage": 1.54
+      "percentage": 1.53
     },
     {
       "name": "HTML",
-      "bytes": 880426,
+      "bytes": 889260,
       "percentage": 1.13
     },
     {
       "name": "PowerShell",
-      "bytes": 395088,
-      "percentage": 0.51
+      "bytes": 427542,
+      "percentage": 0.55
     },
     {
       "name": "C++",
-      "bytes": 184277,
-      "percentage": 0.24
+      "bytes": 198679,
+      "percentage": 0.25
     },
     {
       "name": "TeX",
-      "bytes": 157504,
-      "percentage": 0.2
+      "bytes": 163108,
+      "percentage": 0.21
     },
     {
       "name": "Rust",
@@ -74,13 +74,13 @@
     },
     {
       "name": "Makefile",
-      "bytes": 20318,
+      "bytes": 21072,
       "percentage": 0.03
     },
     {
       "name": "Lua",
       "bytes": 19543,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "name": "HCL",
@@ -98,6 +98,11 @@
       "percentage": 0.02
     },
     {
+      "name": "CMake",
+      "bytes": 12938,
+      "percentage": 0.02
+    },
+    {
       "name": "PLpgSQL",
       "bytes": 12600,
       "percentage": 0.02
@@ -105,11 +110,6 @@
     {
       "name": "Go Template",
       "bytes": 11088,
-      "percentage": 0.01
-    },
-    {
-      "name": "CMake",
-      "bytes": 10398,
       "percentage": 0.01
     },
     {
