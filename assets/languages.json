@@ -4,48 +4,53 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 53279955,
-      "percentage": 67.96
+      "bytes": 55511868,
+      "percentage": 68.68
     },
     {
       "name": "MATLAB",
       "bytes": 5470078,
-      "percentage": 6.98
+      "percentage": 6.77
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4962444,
-      "percentage": 6.33
+      "percentage": 6.14
     },
     {
       "name": "TypeScript",
       "bytes": 4237147,
-      "percentage": 5.4
+      "percentage": 5.24
     },
     {
       "name": "C",
       "bytes": 3687409,
-      "percentage": 4.7
+      "percentage": 4.56
     },
     {
       "name": "JavaScript",
-      "bytes": 3449226,
-      "percentage": 4.4
+      "bytes": 3510632,
+      "percentage": 4.34
     },
     {
       "name": "CSS",
-      "bytes": 1200462,
-      "percentage": 1.53
+      "bytes": 1228826,
+      "percentage": 1.52
     },
     {
       "name": "HTML",
-      "bytes": 889260,
-      "percentage": 1.13
+      "bytes": 901615,
+      "percentage": 1.12
     },
     {
       "name": "PowerShell",
-      "bytes": 427542,
-      "percentage": 0.55
+      "bytes": 430195,
+      "percentage": 0.53
+    },
+    {
+      "name": "TeX",
+      "bytes": 207657,
+      "percentage": 0.26
     },
     {
       "name": "C++",
@@ -53,19 +58,14 @@
       "percentage": 0.25
     },
     {
-      "name": "TeX",
-      "bytes": 163108,
-      "percentage": 0.21
-    },
-    {
       "name": "Rust",
       "bytes": 146659,
-      "percentage": 0.19
+      "percentage": 0.18
     },
     {
       "name": "Shell",
-      "bytes": 71990,
-      "percentage": 0.09
+      "bytes": 124329,
+      "percentage": 0.15
     },
     {
       "name": "C#",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Makefile",
-      "bytes": 21072,
+      "bytes": 21411,
       "percentage": 0.03
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "name": "Dockerfile",
-      "bytes": 4667,
+      "bytes": 5001,
       "percentage": 0.01
     },
     {
