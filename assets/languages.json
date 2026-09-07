@@ -3,109 +3,109 @@
   "method": "GitHub Linguist bytes across accessible non-fork, non-archived repositories",
   "languages": [
     {
+      "name": "C++",
+      "bytes": 126576254,
+      "percentage": 60.21
+    },
+    {
       "name": "Python",
-      "bytes": 55511868,
-      "percentage": 68.68
+      "bytes": 57798512,
+      "percentage": 27.49
     },
     {
       "name": "MATLAB",
       "bytes": 5470078,
-      "percentage": 6.77
+      "percentage": 2.6
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4962444,
-      "percentage": 6.14
+      "percentage": 2.36
     },
     {
       "name": "TypeScript",
       "bytes": 4237147,
-      "percentage": 5.24
+      "percentage": 2.02
     },
     {
       "name": "C",
-      "bytes": 3687409,
-      "percentage": 4.56
+      "bytes": 3706357,
+      "percentage": 1.76
     },
     {
       "name": "JavaScript",
-      "bytes": 3510632,
-      "percentage": 4.34
+      "bytes": 3623889,
+      "percentage": 1.72
     },
     {
       "name": "CSS",
-      "bytes": 1228826,
-      "percentage": 1.52
+      "bytes": 1262265,
+      "percentage": 0.6
     },
     {
       "name": "HTML",
-      "bytes": 901615,
-      "percentage": 1.12
-    },
-    {
-      "name": "PowerShell",
-      "bytes": 430195,
-      "percentage": 0.53
+      "bytes": 1011519,
+      "percentage": 0.48
     },
     {
       "name": "TeX",
-      "bytes": 207657,
-      "percentage": 0.26
+      "bytes": 562510,
+      "percentage": 0.27
     },
     {
-      "name": "C++",
-      "bytes": 198679,
-      "percentage": 0.25
+      "name": "PowerShell",
+      "bytes": 478229,
+      "percentage": 0.23
+    },
+    {
+      "name": "Shell",
+      "bytes": 167469,
+      "percentage": 0.08
     },
     {
       "name": "Rust",
       "bytes": 146659,
-      "percentage": 0.18
-    },
-    {
-      "name": "Shell",
-      "bytes": 124329,
-      "percentage": 0.15
+      "percentage": 0.07
     },
     {
       "name": "C#",
       "bytes": 62795,
-      "percentage": 0.08
+      "percentage": 0.03
     },
     {
       "name": "Makefile",
-      "bytes": 21411,
-      "percentage": 0.03
+      "bytes": 21635,
+      "percentage": 0.01
     },
     {
       "name": "Lua",
       "bytes": 19543,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "HCL",
       "bytes": 18235,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "R",
       "bytes": 17376,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "Batchfile",
       "bytes": 15640,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "CMake",
       "bytes": 12938,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "PLpgSQL",
       "bytes": 12600,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "name": "Go Template",
@@ -115,12 +115,17 @@
     {
       "name": "Dockerfile",
       "bytes": 5001,
-      "percentage": 0.01
+      "percentage": 0.0
     },
     {
       "name": "Modelica",
       "bytes": 4172,
-      "percentage": 0.01
+      "percentage": 0.0
+    },
+    {
+      "name": "SCSS",
+      "bytes": 4066,
+      "percentage": 0.0
     },
     {
       "name": "Mermaid",
