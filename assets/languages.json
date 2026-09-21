@@ -5,57 +5,57 @@
     {
       "name": "C++",
       "bytes": 214060314,
-      "percentage": 68.37
+      "percentage": 66.55
     },
     {
       "name": "Python",
-      "bytes": 68422685,
-      "percentage": 21.85
+      "bytes": 76603491,
+      "percentage": 23.82
     },
     {
       "name": "MATLAB",
       "bytes": 5470078,
-      "percentage": 1.75
+      "percentage": 1.7
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4962444,
-      "percentage": 1.59
+      "percentage": 1.54
     },
     {
       "name": "TypeScript",
       "bytes": 4237147,
-      "percentage": 1.35
+      "percentage": 1.32
     },
     {
       "name": "C",
       "bytes": 3706357,
-      "percentage": 1.18
+      "percentage": 1.15
     },
     {
       "name": "JavaScript",
       "bytes": 3694678,
-      "percentage": 1.18
+      "percentage": 1.15
     },
     {
       "name": "TeX",
-      "bytes": 3219286,
-      "percentage": 1.03
+      "bytes": 3587557,
+      "percentage": 1.12
     },
     {
       "name": "Fortran",
       "bytes": 1379298,
-      "percentage": 0.44
+      "percentage": 0.43
     },
     {
       "name": "CSS",
       "bytes": 1284418,
-      "percentage": 0.41
+      "percentage": 0.4
     },
     {
       "name": "HTML",
       "bytes": 1093124,
-      "percentage": 0.35
+      "percentage": 0.34
     },
     {
       "name": "Shell",
@@ -64,8 +64,8 @@
     },
     {
       "name": "PowerShell",
-      "bytes": 494702,
-      "percentage": 0.16
+      "bytes": 497676,
+      "percentage": 0.15
     },
     {
       "name": "Rust",
