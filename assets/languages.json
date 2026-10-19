@@ -5,42 +5,42 @@
     {
       "name": "C++",
       "bytes": 214242379,
-      "percentage": 64.17
+      "percentage": 63.57
     },
     {
       "name": "Python",
-      "bytes": 81056639,
-      "percentage": 24.28
+      "bytes": 81107104,
+      "percentage": 24.06
     },
     {
       "name": "TeX",
-      "bytes": 10400524,
-      "percentage": 3.12
+      "bytes": 10401713,
+      "percentage": 3.09
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 5535250,
+      "percentage": 1.64
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 5509498,
+      "percentage": 1.63
     },
     {
       "name": "MATLAB",
       "bytes": 5470078,
-      "percentage": 1.64
+      "percentage": 1.62
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4962444,
-      "percentage": 1.49
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 4237147,
-      "percentage": 1.27
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 3738972,
-      "percentage": 1.12
+      "percentage": 1.47
     },
     {
       "name": "C",
       "bytes": 3706357,
-      "percentage": 1.11
+      "percentage": 1.1
     },
     {
       "name": "HTML",
@@ -59,18 +59,23 @@
     },
     {
       "name": "Shell",
-      "bytes": 824788,
+      "bytes": 842777,
       "percentage": 0.25
     },
     {
       "name": "PowerShell",
-      "bytes": 504397,
+      "bytes": 509500,
       "percentage": 0.15
     },
     {
       "name": "Rust",
       "bytes": 146659,
       "percentage": 0.04
+    },
+    {
+      "name": "HCL",
+      "bytes": 65833,
+      "percentage": 0.02
     },
     {
       "name": "C#",
@@ -85,11 +90,6 @@
     {
       "name": "Lua",
       "bytes": 19543,
-      "percentage": 0.01
-    },
-    {
-      "name": "HCL",
-      "bytes": 18235,
       "percentage": 0.01
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name": "Dockerfile",
-      "bytes": 5001,
+      "bytes": 5935,
       "percentage": 0.0
     },
     {
